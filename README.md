@@ -29,8 +29,8 @@ Skills need code execution turned on (Settings > Capabilities on Free, Pro and M
 ### Claude Code
 
 ```bash
-git clone <this repository's URL>
-cp -r linkedin-bookmark-writer/skills/linkedin-bookmark-writer ~/.claude/skills/
+git clone https://github.com/sivasurend/worlds-greatest-linkedin-post-writer-skill.git
+cp -r worlds-greatest-linkedin-post-writer-skill/skills/linkedin-bookmark-writer ~/.claude/skills/
 ```
 
 To share it with your team instead, copy the folder into `.claude/skills/` inside your project and commit it.
